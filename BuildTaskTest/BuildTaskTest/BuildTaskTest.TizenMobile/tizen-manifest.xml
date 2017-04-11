@@ -11,4 +11,7 @@
 	<icon>BuildTaskTest.TizenMobile.png</icon>
 	<label>BuildTaskTest.TizenMobile</label>
 	</ui-application>
+	<privileges>
+		<privilege>http://tizen.org/privilege/internet</privilege>
+	</privileges>
 </manifest>

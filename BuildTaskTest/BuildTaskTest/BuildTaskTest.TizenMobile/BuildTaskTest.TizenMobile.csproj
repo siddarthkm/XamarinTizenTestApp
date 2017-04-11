@@ -10,7 +10,7 @@
     <ProjectGuid>{522B03E9-F808-4073-9F4F-0E17E34B23BA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BuildTaskTest.TizenMobile</RootNamespace>
+    <RootNamespace>BuildTaskTest</RootNamespace>
     <AssemblyName>BuildTaskTest.TizenMobile</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <DefaultLanguage>en-US</DefaultLanguage>
